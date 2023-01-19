@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/b351wuqnr8b58b23?svg=true)](https://ci.appveyor.com/project/DedMaier/promises-ky96h)
+
 # Домашнее задание к лекции «Promises, async/await»
 
 ## Promises
